@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LIBPNG "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LIBPNG "unknown"

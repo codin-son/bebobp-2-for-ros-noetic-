@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_SDL "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_SDL "unknown"

@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_OPENCV "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_OPENCV "unknown"

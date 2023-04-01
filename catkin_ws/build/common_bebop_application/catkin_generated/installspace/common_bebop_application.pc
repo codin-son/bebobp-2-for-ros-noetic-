@@ -1,0 +1,8 @@
+prefix=/home/ijud/catkin_ws/install
+
+Name: common_bebop_application
+Description: Description of common_bebop_application
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

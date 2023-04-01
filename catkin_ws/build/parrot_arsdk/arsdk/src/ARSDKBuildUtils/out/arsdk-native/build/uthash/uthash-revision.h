@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_UTHASH "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_UTHASH "unknown"

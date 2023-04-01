@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_FLANN "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_FLANN "unknown"

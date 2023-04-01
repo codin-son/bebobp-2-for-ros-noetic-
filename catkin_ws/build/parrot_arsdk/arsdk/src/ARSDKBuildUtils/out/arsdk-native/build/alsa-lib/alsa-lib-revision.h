@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_ALSA_LIB "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_ALSA_LIB "unknown"

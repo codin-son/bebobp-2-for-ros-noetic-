@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_GLEW "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_GLEW "unknown"

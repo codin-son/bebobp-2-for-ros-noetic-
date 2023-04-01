@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_JSON "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_JSON "unknown"

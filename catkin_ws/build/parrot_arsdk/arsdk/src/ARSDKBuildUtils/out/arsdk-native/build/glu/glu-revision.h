@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_GLU "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_GLU "unknown"

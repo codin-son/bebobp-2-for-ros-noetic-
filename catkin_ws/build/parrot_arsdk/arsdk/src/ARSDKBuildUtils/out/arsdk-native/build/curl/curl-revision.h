@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_CURL "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_CURL "unknown"

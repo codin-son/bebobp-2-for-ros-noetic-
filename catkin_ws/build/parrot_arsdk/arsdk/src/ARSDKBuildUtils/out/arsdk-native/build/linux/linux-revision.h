@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LINUX "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LINUX "unknown"

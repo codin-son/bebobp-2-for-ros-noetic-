@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LIBRTSP "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LIBRTSP "unknown"

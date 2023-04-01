@@ -1,0 +1,2 @@
+bebop_autonomy/bebop_autonomy:bebop_autonomy/bebop_description:bebop_autonomy/bebop_driver:bebop_autonomy/bebop_msgs:bebop_autonomy/bebop_tools:common_bebop_application:parrot_arsdk
+-DCATKIN_DEVEL_PREFIX=/home/ijud/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ijud/catkin_ws/install -G Unix Makefiles

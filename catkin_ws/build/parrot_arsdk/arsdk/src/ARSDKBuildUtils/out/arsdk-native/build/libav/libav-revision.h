@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LIBAV "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LIBAV "unknown"

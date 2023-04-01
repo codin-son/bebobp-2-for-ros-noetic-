@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LIBUSB_1_0 "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LIBUSB_1_0 "unknown"

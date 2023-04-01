@@ -1,0 +1,5 @@
+ro.build.date=Thu Mar 30 00:42:24 PDT 2023
+ro.build.date.utc=1680162144
+ro.build.alchemy.product=arsdk
+ro.build.alchemy.variant=native
+ro.build.hostname=ubuntu

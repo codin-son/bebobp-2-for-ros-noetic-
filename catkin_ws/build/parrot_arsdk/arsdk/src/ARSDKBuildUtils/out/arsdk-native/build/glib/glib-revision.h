@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_GLIB "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_GLIB "unknown"

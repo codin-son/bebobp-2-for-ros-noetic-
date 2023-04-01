@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_AVAHI "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_AVAHI "unknown"

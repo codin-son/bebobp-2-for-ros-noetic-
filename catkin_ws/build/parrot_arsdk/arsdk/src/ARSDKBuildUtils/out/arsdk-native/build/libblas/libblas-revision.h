@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LIBBLAS "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LIBBLAS "unknown"

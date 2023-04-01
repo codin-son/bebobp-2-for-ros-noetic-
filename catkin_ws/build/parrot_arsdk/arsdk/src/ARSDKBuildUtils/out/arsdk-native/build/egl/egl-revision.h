@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_EGL "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_EGL "unknown"

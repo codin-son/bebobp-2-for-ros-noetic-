@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_LIBSDP "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_LIBSDP "unknown"

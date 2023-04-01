@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_FFMPEG "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_FFMPEG "unknown"

@@ -1,0 +1,2 @@
+#define ALCHEMY_REVISION_NCURSES "unknown"
+#define ALCHEMY_REVISION_DESCRIBE_NCURSES "unknown"
