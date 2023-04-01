@@ -1,0 +1,82 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_noetic.sh
+    4  chmod 755 ./install_ros_noetic.sh 
+    5  bash ./install_ros_noetic.sh
+    6  sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy   ros-noetic-teleop-twist-keyboard ros-noetic-laser-proc   ros-noetic-rgbd-launch ros-noetic-rosserial-arduino   ros-noetic-rosserial-python ros-noetic-rosserial-client   ros-noetic-rosserial-msgs ros-noetic-amcl ros-noetic-map-server   ros-noetic-move-base ros-noetic-urdf ros-noetic-xacro   ros-noetic-compressed-image-transport ros-noetic-rqt* ros-noetic-rviz   ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers
+    7  sudo ap-get purge gazebo*
+    8  sudo apt-get purge gazebo*
+    9  sudo apt-get autoremove
+   10  ros
+   11  rostopic
+   12  sudo apt update
+   13  sudo apt upgrade
+   14  wget https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_noetic.sh
+   15  chmod 755 ./install_ros_noetic.sh 
+   16  rosversion -d
+   17  echo "[Set the target OS, ROS version and name of catkin workspace]"
+   18  name_os_version=${name_os_version:="focal"}
+   19  name_ros_version=${name_ros_version:="noetic"}
+   20  name_catkin_workspace=${name_catkin_workspace:="catkin_ws"}
+   21  chmod 755 ./install_ros_noetic.sh 
+   22  bash ./install_ros_noetic.sh
+   23  sudo apt-get install ros-noetic-joy ros-noetic-teleop-twist-joy   ros-noetic-teleop-twist-keyboard ros-noetic-laser-proc   ros-noetic-rgbd-launch ros-noetic-rosserial-arduino   ros-noetic-rosserial-python ros-noetic-rosserial-client   ros-noetic-rosserial-msgs ros-noetic-amcl ros-noetic-map-server   ros-noetic-move-base ros-noetic-urdf ros-noetic-xacro   ros-noetic-compressed-image-transport ros-noetic-rqt* ros-noetic-rviz   ros-noetic-gmapping ros-noetic-navigation ros-noetic-interactive-markers
+   24  sudo apt install ros-noetic-dynamixel-sdk
+   25  sudo apt install ros-noetic-turtlebot3-msgs
+   26  sudo apt install ros-noetic-turtlebot3
+   27  cd catkin_ws/
+   28  cd src/
+   29  git clone https://github.com/KhairulIzwan/common_bebop_application.git
+   30  git clone https://github.com/antonellabarisic/parrot_arsdk.git
+   31  cd parrot_arsdk
+   32  git checkout noetic_dev
+   33  sudo apt-get install libavahi-client-dev
+   34  sudo ln -s /usr/bin/python3 /usr/bin/python
+   35  cd
+   36  cd catkin_ws/
+   37  git clone https://github.com/AutonomyLab/bebop_autonomy.gitgit clone https://github.com/AutonomyLab/bebop_autonomy.git
+   38  git clone https://github.com/AutonomyLab/bebop_autonomy.git
+   39  cd src/
+   40  git clone https://github.com/AutonomyLab/bebop_autonomy.git
+   41  cd ..
+   42  catkin_make
+   43  gedit ~/.bashrc
+   44  sudo apt install gedit
+   45  gedit ~/.bashrc
+   46  sudo apt install ros-noetic-joy ros-noetic-joy-teleop ros-noetic-teleop-twissidpt-joy
+   47  catkin_make
+   48  sudo apt install catkin
+   49  sudo apt-get install python3-catkin-tools
+   50  catkin_make
+   51  cm
+   52  cd
+   53  cm
+   54  cd catkin_ws/
+   55  cw
+   56  cs
+   57  cd ~/catkin_ws && rosdep install -y --from-paths src --ignore-src --rosdistro noetic && catkin_make && rospack profile
+   58  sudo apt install catkin
+   59  catkin
+   60  rosdep update
+   61  echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+   62  source ~/.basrc
+   63  source ~/.bashrc
+   64  rosdep update
+   65  sudo apt-get install python-catkin-pkg
+   66  sudo apt-get install python3-catkin-pkg
+   67  catkin
+   68  sudo apt install catkin
+   69  sudo apt-get install python3-catkin-pkg
+   70  sudo apt-get update
+   71  sudo apt-get upgrade
+   72  sudo rosdep init
+   73  rosdep update
+   74  rosdep install --from-paths src --ignore-src --rosdistro noetic -y
+   75  catkin_make
+   76  $ sudo apt-get install python3-pip
+   77  catkin_make
+   78  ros
+   79  rostopic
+   80  rostopic list
+   81  roslaunch bebop_driver bebop_node.launch 
+   82  history
